@@ -1,0 +1,49 @@
+// Nefelio Syntax Theme
+
+// Color scheme -----------------------------------
+
+@dbg: #1F1B1D; // Dark background
+@dhl: #2F2B2D; // Dark highlight
+@dt2: #6F6B6D; // Dark bg text secondary
+@dt1: #9F9B9D; // Dark bg text primary
+
+@lbg: #EAEFF2; // Light background
+@lhl: #DADFE2; // Light highlight
+@lt2: #8A8F92; // Light bg text secondary
+@lt1: #5A5F62; // Light bg text primary
+
+@red: #BA2F5F; // Red
+@ora: #CA6F5F; // Orange
+@yel: #CAAF5F; // Yellow
+@gre: #1CB592; // Green
+
+@cya: #14B7BD; // Cyan
+@blu: #3F8EDA; // Blue
+@vio: #956CDA; // Violet
+@mag: #BA4295; // Magenta
+
+// Variables -----------------------------------
+
+@text-1: @lt1; // text primary
+@text-2: @lt2; // text secondary
+
+@color-1: @mag; // color primary
+@color-2: @gre; // color secondary
+@color-3: @cya; // color tertiary
+
+@support-1: @blu; // support primary
+@support-2: @vio; // support secondary
+
+@accent-1: @ora; // accent primary
+@accent-2: @yel; // accent secondary
+@accent-3: @red; // accent tertiary
+
+// Base vars -----------------------------------
+
+@syntax-fg: @text-1; // text primary
+@syntax-accent: @accent-1; // accent primary
+@syntax-bg: @lbg; // background
+@syntax-guide: @lhl; // background highlight
+@syntax-selection: @syntax-guide;
+@syntax-selection-gutter: @syntax-guide;
+@syntax-cursor-line: fade(@syntax-selection, 26%); // needs to be semi-transparent to show serach results

@@ -1,0 +1,18 @@
+{
+  "name": "nefelio-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "High-contrast with vivid colours.",
+  "keywords": [
+    "syntax",
+    "magenta",
+    "green",
+    "cyan",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/nefelio-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
