@@ -1,5 +1,3 @@
-// Nefelio Syntax Theme
-
 // Color scheme -----------------------------------
 
 @dbg: #282326; // Dark background
@@ -22,28 +20,30 @@
 @vio: #956CDA; // Violet
 @mag: #C34D95; // Magenta
 
-// Variables -----------------------------------
+// Visual order -----------------------------------
 
-@text-1: @lt1; // text primary
-@text-2: @lt2; // text secondary
+@primary1: @mag;
+@primary2: @gre;
+@primary3: @cya;
 
-@color-1: @mag; // color primary
-@color-2: @gre; // color secondary
-@color-3: @cya; // color tertiary
+@secondary1: @blu;
+@secondary2: @vio;
 
-@support-1: @blu; // support primary
-@support-2: @vio; // support secondary
+@tertiary1: @ora;
+@tertiary2: @yel;
+@tertiary3: @red;
 
-@accent-1: @ora; // accent primary
-@accent-2: @yel; // accent secondary
-@accent-3: @red; // accent tertiary
+// Theme variant ----------------------------------
 
-// Base vars -----------------------------------
-
-@syntax-fg: @text-1; // text primary
-@syntax-accent: @accent-1; // accent primary
+@text1: @lt1; // text primary
+@text2: @lt2; // text secondary
 @syntax-bg: @lbg; // background
 @syntax-guide: @lhl; // background highlight
+
+// Atom Base vars ---------------------------------
+
+@syntax-fg: @text1; // text primary
+@syntax-accent: @tertiary1; // cursor, markdown preview links, etc.
 @syntax-selection: @syntax-guide;
 @syntax-selection-gutter: @syntax-guide;
 @syntax-cursor-line: fade(@syntax-selection, 26%); // needs to be semi-transparent to show serach results

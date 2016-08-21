@@ -14,3 +14,6 @@
   - `@gre` from `#1CB592` to `#1CB57A`
   - `@cya` from `#14B7BD` to `#34B7BD`
   - `@mag` from `#BA4295` to `#C34D95`
+
+## 1.1.0
+- Code rebase with improvements to Markdown and JavaScript.
