@@ -8,7 +8,7 @@ High-contrast with vivid colours. Inspired by nebulae. The most prevalent colour
 
 ![nefelio light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/nefelio/img/nefelio_light_sample.png)
 
-*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack), set at 14px*.  
+*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack)*.  
 *Demo code by http://codemirror.net/mode/javascript/index.html*  
 *The UI theme is https://atom.io/themes/atom-material-ui*.
 
