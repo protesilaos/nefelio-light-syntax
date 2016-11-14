@@ -17,3 +17,8 @@
 
 ## 1.1.0
 - Code rebase with improvements to Markdown and JavaScript.
+
+## 1.2.0
+- Refinements to JavaScript.
+- Refinements to Markdown.
+- Minor improvements to editor styles.
