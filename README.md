@@ -22,6 +22,6 @@ apm install nefelio-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/nefelio](http://www.protesilaos.com/nefelio)
+Project page: [https://protesilaos.com/nefelio](https://protesilaos.com/nefelio)
 
 Nefelio dark version: [https://atom.io/themes/nefelio-dark-syntax](https://atom.io/themes/nefelio-dark-syntax)
