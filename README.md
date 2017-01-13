@@ -6,11 +6,16 @@ High-contrast with vivid colours. Inspired by nebulae. The most prevalent colour
 
 ## Screenshots
 
-![nefelio light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/nefelio/img/nefelio_light_sample.png)
+![nefelio light screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/nefelio/img/nefelio_light_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![nefelio light screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/nefelio/img/nefelio_light_scss.png)
+
+![nefelio light screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/nefelio/img/nefelio_light_js.png)
+
+![nefelio light screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/nefelio/img/nefelio_light_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
